@@ -1,3 +1,6 @@
 # FrontEnd
 
-aula dia 27/02
+instalar github desktop
+fazer um fetch
+
+enviar modficações via push
